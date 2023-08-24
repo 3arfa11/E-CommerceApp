@@ -1,0 +1,12 @@
+const apple = "assets/images/apple.png";
+const facebook="assets/images/f1.png";
+const google="assets/images/g1.png";
+const github="assets/images/github.png";
+const headphone="assets/images/headphone.png";
+const headphone2="assets/images/headphone2.png";
+const headphoneDetails="assets/images/headphonedetails.png";
+const person="assets/images/person.png";
+const feature1="assets/images/feature1.png";
+const feature2="assets/images/feature2.png";
+const cable="assets/images/cable.png";
+const mainColor = 0xFF0ACF83;
